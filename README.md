@@ -4,5 +4,5 @@ The bot lets the user that needs support to DM the bot. After the user DMd the b
 # How do I reply to the messages?
 To reply to the user, simply write "r", "reply", "mail", or m after mentioning/using the bot's prefix. For example, if your prefix is "?", then you'd write "?reply [user that needs help] [message that you want to reply with]". 
 
-# Independencies Used
+# Libraries Used
 discord.py and asyncio
